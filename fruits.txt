@@ -3,3 +3,6 @@ berries
 cherries
 
 my changes added
+
+change made on master branch after feature1 branch created and head
+moved to master branch
